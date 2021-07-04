@@ -1,0 +1,1 @@
+from .dummyfuncs import returns42
